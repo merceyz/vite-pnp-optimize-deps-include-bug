@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@babel/core": "7.21.8",
     "postcss": "8.4.23",
     "vite": "^4.3.2"
   },

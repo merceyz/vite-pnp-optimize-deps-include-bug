@@ -1,5 +1,5 @@
 export default {
 	optimizeDeps: {
-		include: ['postcss > nanoid'],
+		include: ['@babel/core > semver'],
 	},
 };
