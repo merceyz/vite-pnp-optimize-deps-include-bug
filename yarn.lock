@@ -929,7 +929,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.23":
+"postcss@npm:8.4.23, postcss@npm:^8.4.23":
   version: 8.4.23
   resolution: "postcss@npm:8.4.23"
   dependencies:
@@ -1155,6 +1155,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "vanilla@workspace:."
   dependencies:
+    postcss: 8.4.23
     vite: ^4.3.2
   languageName: unknown
   linkType: soft
